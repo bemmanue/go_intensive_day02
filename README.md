@@ -1,5 +1,5 @@
 # Day 02 - Go Intensive
-# Not Invented Here Syndrome
+## Not Invented Here Syndrome
 
 ## Chapter I
 ### General rules
