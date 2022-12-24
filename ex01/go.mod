@@ -1,3 +1,3 @@
-module ex01
+module myWC
 
 go 1.18

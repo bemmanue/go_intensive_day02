@@ -1,3 +1,3 @@
-module ex03
+module myRotate
 
 go 1.18

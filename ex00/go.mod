@@ -1,3 +1,3 @@
-module ex00
+module myFind
 
 go 1.18

@@ -1,3 +1,3 @@
-module ex02
+module myXargs
 
 go 1.18
